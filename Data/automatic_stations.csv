@@ -1,0 +1,71 @@
+station_name,adress,lat_utm,long_utm,zone
+Guaratinguetá,"Avenida Doutor Ariberto Pereira da Cunha, 333, Portal das Colinas, Guaratinguetá",7478395,480385,23k
+Jacareí,"Avenida Nove de Julho, 745, Jd Pereira do Amparo, Jacareí",7423581,400987,23k
+S.José dos Campos,"Rua Ana Gonçalves da Cunha, 40, Obra Social Celio Lemos, Monte Castelo, São José dos Campos",7435414,410840,23k
+S.José dos Campos-Jd.Satélite,"Rua Cefeu, 664, Centro Poliesportivo ""João do Pulo"", Jd Satélite, São José dos Campos",7431443,408858,23k
+S.José dos Campos-Vista Verde,"Rua Estados Unidos, 435, EMEF PROF. WALDEMAR RAMOS, Cid Vista Verde, São José dos Campos",7435902,414962,23k
+Taubaté,"Rua Espanha, 386, Jd das Nações, Taubaté",7452783,441004,23k
+Ribeirão Preto,"Rua General Câmara, 157, E.E. Edgardo Cajado, Ipiranga, Ribeirão Preto",7658197,206253,23k
+Ribeirão Preto-Centro,"Travessa Felipe Camarão, 234, Vila Virgínia, Ribeirão Preto",7655653,207285,23k
+Americana,"Rua Suécia, 465, Esquina com Avenida Europa, Vila Santa Maria, Americana",7485109,259708,23k
+Campinas-Centro,"Avenida Anchieta, 42, E.E. Carlos Gomes, Centro, Campinas",7465796,288991,23k
+Campinas-Taquaral,"Avenida Doutor Heitor Penteado, S/N, Portão 5, Jd N S Auxiliadora, Campinas",7468884,288767,23k
+Campinas-V.União,"Rua Graciliano Ramos, Alt97, Prq Res Vl União, Campinas",7460810,282693,23k
+Jundiaí,"Avenida Amadeu Ribeiro, 500, Anhangabaú, Jundiaí",7433959,305834,23k
+Limeira,"Rua João Kuhl Filho, s/nº, Parque Cidade de Limeira, esquina com a Rua João Jacon, Vila São João, Limeira",7502780,251737,23k
+Paulínia,"Praça Oadil Pietrobom, s/nº, Vila Bressani, Paulínia",7480073,278763,23k
+Paulínia-Sul,"Rua Angelo Pigatto Ferro, s/nº, Santa Terezinha, Paulínia",7478496,280664,23k
+Piracicaba,"Avenida Monsenhor Martinho Salgot, 560, Vila Areão, Piracicaba",7487124,227797,23k
+Santa Gertrudes,"Rua Nossa Senhora Aparecida, 320, Jardim Luciana, Santa Gertrudes",7514053,238993,23k
+Cambuci,"Avenida Dom Pedro I, 100, IV COMAR, Vila Monumento, São Paulo",7392707,335456,23k
+Capão Redondo,"Estrada de Itapecerica, 5859, no interior do Instituto Adventista de Ensino - UNASP, Capão Redondo, São Paulo",7381358,318469,23k
+Carapicuíba,"Avenida Inocêncio Seráfico, 1051, esquina com Rua São Miguel, Centro, Carapicuíba",7396454,312589,23k
+Centro,"Rua da Consolação, 94, Bibliot. Mun. Mário de Andrade, Consolação, São Paulo",7394876,332354,23k
+Cerqueira César,"Avenida Doutor Arnaldo, 725, Faculdade de Saúde Pública, Sumaré, São Paulo",7394205,329269,23k
+Cid.Universitária-USP-Ipen,"Avenida Professor Lineu Prestes, 2242, Cidade Universitária, Butantã, São Paulo",7392709,322680,23k
+Congonhas,"Alameda dos Tupiniquins, 1571, E.M.Prof.J.C. da Silva Borges, Planalto Paulista, São Paulo",7387264,330293,23K
+Diadema,"Rua Benjamin Constant, 3, Prefeitura Mun de Diadema, Vila Diadema, Diadema",7379622,335670,23k
+Grajau-Parelheiros,"Avenida Paulo Guilguer Reimberg, 2448, E.E. Pres. Tancredo A. Neves, Jd Novo Horizonte, São Paulo",7369511,327086,23k
+Guarulhos,"Rua Professora Maria Del Pilar Munhoz Bononato, s/nº, E.E. Francisco Antunes Filho, Prq Cecap, Guarulhos",7404407,347182,23k
+Guarulhos-Paço Municipal,"Avenida João Bernardo Medeiros, 173, Jd Bom Clima, Guarulhos",7405233,344893,23k
+Guarulhos-Pimentas,"Rua Imperial, 230, EM FRENTE AO HOSPITAL MUNICIPAL PIMENTAS-BONSUCESSO, Prq das Nações, Guarulhos",7407053,355969,23k
+Ibirapuera,"Parque do Ibirapuera, s/nº, Setor 25, Prq Ibirapuera, São Paulo",7389978,330545,23k
+Interlagos,"Rua Domingas Galleteri Blotta, 171, Jd Santa Cruz, São Paulo",7380142,329195,23k
+Itaim Paulista,"Rua Jaguar, 225, Vila Curuçá, São Paulo",7400240,354934,23k
+Itaquera,"Avenida Fernando do Espírito Santo Alves de Mattos, 1000, SESC Itaquera, Prq do Carmo, São Paulo",7391504,350334,23k
+Lapa,"Avenida Embaixador Macedo Soares, 7995, AR - Lapa, Vila Anastácio, São Paulo",7399059,326263,23k
+Marg.Tietê-Pte Remédios,"Avenida Embaixador Macedo Soares, 12889, No Gab. treinamento do Comando de Pol. Rodov. da Polícia Militar, Vl Ribeiro de Barros, São Paulo",7397977,322013,23k
+Mauá,"Rua Vitorino Dell Antônia, S/N, Paço Municipal, Vila Noêmia, Mauá",7381701,350501,23k
+Mogi das Cruzes,"Rua Olegário Paiva, 145, Centro, Mogi das Cruzes",7398616,378832,23k
+Mooca,"Rua Bresser, 2341, Administração Regional da Moóca e Centro Esportivo Municipal, Moóca, São Paulo",7394711,336644,23k
+N.Senhora do Ó,"Rua Capitão José Amaral, 80, E.E. Cacilda Becker, Vila Portuguesa, São Paulo",7402315,327198,23k
+Osasco,"Avenida dos Autonomistas, s/nº, Esquina com Rua São Mauricio, Vila Quitaúna, Osasco",7397028,317045,23k
+Parque D.Pedro II,"Parque Dom Pedro II, s/nº, Palácio das Indústrias, Centro, São Paulo",7395221,333855,23k
+Pico do Jaraguá,"Estrada Turística do Jaraguá, s/nº, Altura do n. 9000, em frente a rotatória Cabo Leão., Vila Jaraguá, São Paulo",7404863,319602,23k
+Pinheiros,"Avenida Professor Frederico Herman Júnior, 345, CETESB, Alto de Pinheiros, São Paulo",7393293,326287,23k
+S.André-Capuava,"Rua Manágua, 02, Posto Puer. Alto Capuava, Prq Capuava, Santo André",7384857,347853,23k
+S.André-Centro,"Rua das Caneleiras, 101, Jd, Santo André",7384165,343300,23k
+S.André-Paço Municipal,"Praça Quarto Centenário, s/nº, Av. Portugal x Av. Ramiro Colleoni, Centro, Santo André",7382911,343866,23k
+S.Bernardo-Centro,"Rua dos Vianas, 625, Vila Baeta Neves, São Bernardo do Campo",7378279,342354,23k
+S.Bernardo-Paulicéia,"Rua Xavier de Toledo, 521, E.M.E.B. Arlindo Ferreira, Paulicéia, São Bernardo do Campo",7381261,338401,23k
+S.Miguel Paulista,"Rua Diego Calado, 112, Escola de Educação Infantil An, Vl São Silvestre, São Paulo",7400550,352473,23k
+Santana,"Avenida Santos Dumont, 1019, Parque de Material Aeronáutico, Santana, São Paulo",7399522,333675,23k
+Santo Amaro,"Rua Padre José Maria, 555, Acesso pela Rua Humboldt - Centro Ed.Esp.Mun.Joerg Brüder, Santo Amaro, São Paulo",7382927,325596,23k
+São Caetano do Sul,"Avenida Presidente Kennedy, 700, Hospital Municipal de Emergências Albert Sabin, Santa Paula, São Caetano do Sul",7387152,341225,23k
+Taboão da Serra,"Praça Nicola Vivilechio, 99, Jd Bom Tempo, Taboão da Serra",7387923,320607,23k
+Cubatão-Centro,"Rua Salgado Filho, 121, Prq Fernando Jorge, Cubatão",7358443,355580,23k
+Cubatão-V.Parisi,"Rua Prefeito Armando Cunha, 70, Vila Parisi, Cubatão",7361752,358583,23k
+Cubatão-Vale do Mogi,"Avenida Engenheiro Plínio de Queiróz, s/n°, Jd São Marcos, Cubatão",7363745,360510,23k
+Santos,"Rua Doutor Oswaldo Cruz, 197, Boqueirão, Santos",7349234,365576,23k
+Santos-Ponta da Praia,"Praça Engenheiro José Rebouças, s/nº, Ponta da Praia, Santos",7347234,367697,23k
+Pirassununga,"Rua 15 de Novembro, 2448, Na Agência Ambiental de Pirassununga, Centro, Pirassununga",7564329,249384,23k
+Sorocaba,"Rua Nhonhô Pires, 260, E.E.Monsenhor João Soares, Vila Lucy, Sorocaba",7398675,246841,23k
+Tatuí,"Rua Ruy Barbosa, 601, Jd N S de Fátima, Tatuí",7413627,206499,23k
+Araraquara,"Avenida Ângelo Hortence, 1990, Centro, Araraquara",7588591,791007,22k
+Bauru,"Rua Castro Alves, s/nº, Quadra 4 - 12º Bombeiros, Vila Souto, Bauru",7529779,696439,22k
+Jaú,"Rua Sete de Setembro, S/N, esquina com Rua Benjamin Constant, Vila Nova, Jaú",7532100,750614,22k
+Catanduva,"Rua Fortaleza, 1310, Reservatório Santo Antônio (Caixa d'água), Vila Rodrigues, Catanduva",7660813,709450,22k
+São José Do Rio Preto,"Rua Jales, 3055, Campo Atletismo Eldorado, Eldorado, São José do Rio Preto",7700854,666719,22k
+Araçatuba,"Rua Clóvis Pestana, 801, A - UNESP - Campus da Veterinária, Dona Amélia, Araçatuba",7657071,558199,22k
+Marília,"Rua Pascoal Moreira, 250, Lorenzetti, Marília",7544689,607206,22k
+Presidente Prudente,"Rua Roberto Simonsen, 464, UNESP - Laboratório de Climatologia, Vila Santa Helena, Presidente Prudente",7553841,457841,22k

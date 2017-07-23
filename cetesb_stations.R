@@ -36,7 +36,7 @@ require(rgdal)
 
 ## importing data frame from a Excel file instead of csv (to maintain Brazilian Portuguese for google)
 
-db <- read_excel("~/Dropbox/AirPollution/Brazil/CETESB/automatic_stations.xlsx", 
+db <- read_excel("Data/automatic_stations.xlsx", 
                  sheet = "toimport", na = "empty")
 
 ### Transforming Lat/Lon from UTM, datum SIRGAS 2000 to Lat/Lon in degrees
@@ -83,8 +83,8 @@ colnames(db_final22) <- names
 
 db_final <- rbind(db_final23, db_final22)
 
-write.csv(db_final, file = "~/Dropbox/AirPollution/Brazil/CETESB/saopaulo_stationsgeo.csv")
-write.table(db_final,"~/Dropbox/AirPollution/Brazil/CETESB/saopaulo_stationsgeo.txt",sep="\t",row.names=FALSE)
+write.csv(db_final, file = "saopaulo_stationsgeo.csv")
+write.table(db_final,"saopaulo_stationsgeo.txt",sep="\t",row.names=FALSE)
 
 ###### Just confirming and testing, using the raw addressess from the web or PDF file
 ## initial tests

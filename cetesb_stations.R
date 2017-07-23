@@ -84,6 +84,7 @@ colnames(db_final22) <- names
 db_final <- rbind(db_final23, db_final22)
 
 write.csv(db_final, file = "~/Dropbox/AirPollution/Brazil/CETESB/saopaulo_stationsgeo.csv")
+write.table(db_final,"~/Dropbox/AirPollution/Brazil/CETESB/saopaulo_stationsgeo.txt",sep="\t",row.names=FALSE)
 
 ###### Just confirming and testing, using the raw addressess from the web or PDF file
 ## initial tests
